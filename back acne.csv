@@ -1,0 +1,11 @@
+ID,Age,Gender,Skin Type,Climate,Exercise Frequency,Sweating Level,Use of Tight Clothing,Skin Care Routine, Hygiene     ,Diet,Recent Medications,History of fungal infections,Stress Level,Fungal Back ance
+1,23,Female,Oily,Hot-Humid,4-5-times,High,Yes,Minimal, no-exfoliation ,High-sugar-intake,None,Yes,High,Yes
+2,30,Male,Combination,Mild,2-3-times,Moderate,No,Regular, exfoliate-weekly ,Balanced-Diet,Antibiotics for acne,No,Medium,No
+3,27,Female,Dry,Cold-Dry,1-2-times,Low,No,Frequent moisturiz, use-hydrating-products   ,Low-sugar,None,No,Low,No
+4,34,Male,Oily,Hot-Humid,6-7-times,Very High,Yes,Minimal, no-exfoliation ,High-fat-intake,None,Yes,High,Yes
+5,22,Female,Normal,Mild,4-5-times,Moderate,Yes,Regular, gentle-exfoliation  ,Mostly-Plant-Based,Birth Control pill,No,Medium,Yes
+6,29,Male,Oily,Hot-Humid,3-4-times,High,Yes,Regular, no-exfoliation,High-Balanced-diet,None,Yes,High,Yes
+7,31,Female,Sensitive,Mild,1-2-times,Low,No,Mild cleansing, use-gentle-soap ,Low-Carb,None,No,Low,No
+8,25,Male,Oily,Hot-Humid,5-6-times,Very High,Yes,Minimal, no-exfoliation ,High-sugar-intake,None,Yes,High,Yes
+9,28,Female,Combination,Mild,2-3-times,Moderate,Yes,Regular, exfoliate-weekly ,Moderate-Balanced-diet,None,No,Medium,Yes
+10,24,Male,Oily,Hot-Humid,7 times,Very High,Yes,Minimal, no -exfoliation ,High-carb-intake,None,Yes,High,Yes
